@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-26T09:14:52.245221400Z</date>
+  <millis>1682500492245</millis>
+  <nanos>221400</nanos>
+  <sequence>0</sequence>
+  <logger>Task4</logger>
+  <level>INFO</level>
+  <class>Task4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>INFO</message>
+</record>
+</log>

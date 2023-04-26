@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-04-26T09:18:11.618571700Z</date>
+  <millis>1682500691618</millis>
+  <nanos>571700</nanos>
+  <sequence>0</sequence>
+  <logger>Task4</logger>
+  <level>INFO</level>
+  <class>Task4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Не выполнили деление</message>
+</record>
+<record>
+  <date>2023-04-26T09:18:11.718050600Z</date>
+  <millis>1682500691718</millis>
+  <nanos>50600</nanos>
+  <sequence>1</sequence>
+  <logger>Task4</logger>
+  <level>INFO</level>
+  <class>Task4</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>INFO</message>
+</record>
+</log>
